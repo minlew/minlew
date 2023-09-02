@@ -1,6 +1,6 @@
 # Welcome to My Python Journey! 🐍
 
-Hey there! I'm [Your Name], and I'm just getting started on my Python programming adventure. This repository is my playground, where I'll be documenting my progress, sharing code snippets, and showcasing my projects as I learn.
+Hey there! I'm just getting started on my Python programming adventure. This repository is my playground, where I'll be documenting my progress, sharing code snippets, and showcasing my projects as I learn.
 
 ## About Me
 
@@ -20,18 +20,15 @@ Right now, I'm focusing on:
 
 - [ ] Learning Python basics
 - [ ] Exploring libraries like NumPy, pandas, and matplotlib
-- [ ] Building my first Python project
+- [ ] Building my first Python projects
 
 ## How You Can Help
 
 If you're an experienced Python developer, your feedback and guidance are highly appreciated! Feel free to open issues, suggest improvements, or even collaborate on projects. Let's learn together!
 
-## Connect with Me
+## Find my portfolio
 
-- 📫 You can reach me at [your.email@example.com]
-- 🐦 Follow me on Twitter: [@YourTwitterHandle]
-- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile]
+- 🔗 You can find my portfolio at: https://project-portfolio-website.onrender.com
 
 Thanks for stopping by! Let's embark on this Python journey together and make some amazing things happen. Happy coding! 🚀
 
-Feel free to personalize this README with your own information, goals, and contact details to make it unique to your journey as a beginner Python developer.
