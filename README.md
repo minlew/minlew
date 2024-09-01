@@ -18,12 +18,12 @@ I'm an aspiring data analyst with a growing passion for data-driven insights and
 
 ## What You'll Find Here
 
-- 📚 Code examples: I'll share simple code snippets as I learn new concepts.
-- 🚀 Projects: I'll be working on small Python projects to apply what I've learned.
+- Code examples: I'll share simple code snippets as I learn new concepts.
+- Projects: I'll be working on small Python projects to apply what I've learned.
 
 ## Get in Touch
 
 - 🔗 **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/lewis-scholes-8571b6173)
-- 📫**Email**: [Your Email](lewis.scholes@outlook.com)
+- 📫 **Email**: [Your Email](lewis.scholes@outlook.com)
 
-Thanks for stopping by! Happy coding! 🚀
+Thanks for stopping by! Happy coding!
