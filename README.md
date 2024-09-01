@@ -23,7 +23,7 @@ I'm an aspiring data analyst with a growing passion for data-driven insights and
 
 ## Get in Touch
 
-- 🔗 **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/lewis-scholes-8571b6173)
+- 🔗 **LinkedIn**: [**LinkedIn**](www.linkedin.com/in/lewis-scholes-8571b6173)
 - 📫 **Email**: [Your Email](lewis.scholes@outlook.com)
 
 Thanks for stopping by! Happy coding!
