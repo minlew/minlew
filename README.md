@@ -1,20 +1,20 @@
 # Welcome to My Github profile!
 
-I'm an aspiring data analyst with a growing passion for data-driven insights and storytelling through data visualization.
+I'm a data analyst with a growing passion for data-driven insights and storytelling through data visualization.
 
 ## About Me
 
-- 📊 **Data Analyst in Training**: Currently learning Python and SQL to analyze and visualize data.
+- 📊 **Data Analyst**: Proficient in SQL and Python to analyze and visualize data.
 - 🐍 **Python Enthusiast**: Exploring data analysis with libraries like Pandas, Matplotlib, and Seaborn.
-- 🗃️ **SQL Learner**: Developing skills in querying and managing data.
+- 🗃️ **SQL User**: Skilled in querying and managing data.
 - 🌱 **Always Learning**: Constantly expanding my knowledge through new projects and challenges.
 - 🚀 **Looking Forward**: Excited to collaborate on projects and grow in the data analytics field.
 
 ## 📚 Skills
 
-- **Languages**: Python, SQL
+- **Languages**: SQL and Python
 - **Libraries**: Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Jupyter Notebook, Git, Excel
+- **Tools**: Excel, Power BI, Jupyter Notebook, Git
 
 ## What You'll Find Here
 
