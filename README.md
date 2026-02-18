@@ -1,6 +1,6 @@
 # Welcome to My Github profile!
 
-I'm a data analyst with a growing passion for data-driven insights and storytelling through data visualization.
+I'm a Data Scientist with a strong focus on building predictive models that solve real-world problems.
 
 ## About Me
 
