@@ -26,4 +26,4 @@ I'm a data analyst with a growing passion for data-driven insights and storytell
 - 🔗 [**LinkedIn**](www.linkedin.com/in/lewis-scholes-8571b6173)
 - 📫 [**Email**](lewis.scholes@outlook.com)
 
-Thanks for stopping by! Happy coding!
+Thanks for stopping by!
