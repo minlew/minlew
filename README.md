@@ -23,7 +23,7 @@ I'm a Data Scientist with a strong focus on building predictive models that solv
 
 ## Get in Touch
 
-- 🔗 [**LinkedIn**](www.linkedin.com/in/lewis-scholes-8571b6173)
-- 📫 [**Email**](lewis.scholes@outlook.com)
+- [**LinkedIn**](www.linkedin.com/in/lewis-scholes-8571b6173)
+- [**Email**](lewis.scholes@outlook.com)
 
 Thanks for stopping by!
