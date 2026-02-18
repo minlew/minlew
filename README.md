@@ -26,4 +26,4 @@ I'm a Data Scientist with a strong focus on building predictive models that solv
 - [**LinkedIn**](www.linkedin.com/in/lewis-scholes-8571b6173)
 - [**Email**](lewis.scholes@outlook.com)
 
-Thanks for stopping by!
+Thanks for stopping by! 
